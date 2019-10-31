@@ -1,4 +1,4 @@
-name: {PowerShell,self,CI}
+name: PowerShell,self,CI
 
 on: [push]
 
